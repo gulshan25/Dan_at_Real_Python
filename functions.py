@@ -76,3 +76,6 @@ def welcome3(name1,name2,name3):
     
 welcome3('gulshan','rahman','tanny')
 print('-'*30)
+
+import dis 
+dis.dis(welcome3)
